@@ -1,0 +1,29 @@
+{
+  "portfolios": [
+    {
+      "id": 111111,
+      "name": "Long-term",
+      "positions": [
+        {
+          "stock": {
+            "id": "1",
+            "symbol": "AAPL",
+            "name": "Apple"
+          },
+          "transactions": [
+            {
+              "stock": {
+                "id": "1",
+                "symbol": "AAPL",
+                "name": "Apple"
+              },
+              "quantity": 10,
+              "openDate": "2018-12-10T13:45:00.000Z"
+            }
+          ],
+          "quantity": 10
+        }
+      ]
+    }
+  ]
+}
